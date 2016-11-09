@@ -63,4 +63,8 @@ Curated list of useful accessibility resources for web designers and developers
 
 * [Hiding inline SVG icons from screen readers](http://www.456bereastreet.com/archive/201609/hiding_inline_svg_icons_from_screen_readers/) 2016/09/30 
 
+## License
 
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
