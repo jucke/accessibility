@@ -1,4 +1,4 @@
-# Awesome Accessibility
+# Intro to Accessibility
 
 Curated list of useful accessibility resources for web designers and developers
 
