@@ -42,7 +42,7 @@ Curated list of useful a11y resources for web designers and developers
 ## Code Practices
 
 * [WAI-ARIA Authoring Practices 1.1](http://w3c.github.io/aria-practices/)
-* [A11y design patterns](https://github.com/LJWatson/design-patterns) - Accessible design patters for web by [@LeonieWatson](https://twitter.com/LeonieWatson)
+* [A11y design patterns - github](https://github.com/LJWatson/design-patterns) and [page](http://ljwatson.github.io/design-patterns/) - design patters for web on github by [@LeonieWatson](https://twitter.com/LeonieWatson)
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 
 ## Validators
