@@ -24,7 +24,7 @@ Curated list of useful a11y resources for web designers and developers
 ## Guidelines
 
 * [W3C - Easy Checks: A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
-* [GOV.UK: Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) - 
+* [GOV.UK: Making your service accessible: an introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
 * [BBC Accessibility Guidelines](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/)
 
 ## Online Courses
