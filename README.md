@@ -1,6 +1,6 @@
 # Intro to Accessibility
 
-Curated list of useful accessibility resources for web designers and developers
+Curated list of useful a11y resources for web designers and developers
 
 **Table of Contents**
 
