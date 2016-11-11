@@ -2,7 +2,7 @@
 
 Curated list of useful accessibility resources for web designers and developers
 
-**Contents**
+**Table of Contents**
 
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specifications](#w3c-speacifications)
