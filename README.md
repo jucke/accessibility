@@ -4,8 +4,8 @@ Curated list of useful a11y resources for web designers and developers
 
 **Table of Contents**
 
-- [Awesome Accessibility](##awesome-accessibility)
-  - [W3C Specifications](#w3c-speacifications)
+- [ Intro to  Accessibility](##intro-to-accessibility)
+  - [W3C Specifications](#w3c speacifications)
   - [Guidelines](#guidelines)
   - [Online Courses](#online-courses)
   - [Checklist](#checklist)
